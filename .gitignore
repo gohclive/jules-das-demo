@@ -1,0 +1,10 @@
+# SQLite database
+bookings.db
+
+# Environment folders
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
